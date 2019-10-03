@@ -1,0 +1,16 @@
+14c2546d3cf506d523942a20ff6ef68a *DESCRIPTION
+361c9d6aa289c48733b124ee258dd70b *LICENSE
+04a9ad919fe0dcf07a15f324d6f9429c *NAMESPACE
+85cd61d7a6c3c06b6548d2e0a8ae1ae9 *R/globals.R
+b34756d2f79b8ff828217a5ab1753460 *R/tools.R
+3ae23ff1c90581c3e5651878b3705fff *R/utils-pipe.R
+e1b955fe898156cf44268d58f49d040e *README.md
+956cb5e418fbf7c2b6fdc81588cc0c64 *build/vignette.rds
+e4754061d4ee67cad18c0740d75c7473 *inst/doc/basic_usage.R
+c90f55bffd6ab65f0eb0f1afbe768fea *inst/doc/basic_usage.Rmd
+f520e1bc1e047b9ea332b03f588532a8 *inst/doc/basic_usage.html
+b6174416ee80fef6d7566f1b52cc2f3b *man/datatable2.Rd
+de570f4bd2659c8f2cd27a85c5f92d4f *man/pipe.Rd
+86e6961de3c214ada72430ea81f1bf52 *man/vars_explore.Rd
+c90f55bffd6ab65f0eb0f1afbe768fea *vignettes/basic_usage.Rmd
+e3a198da732e3abed29dd6689cab0ae2 *vignettes/stata-vars-explorer.png

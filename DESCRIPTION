@@ -1,7 +1,7 @@
 Package: varsExplore
 Type: Package
 Title: Searchable Variable Explorer with Labelled Variables
-Version: 0.1.0
+Version: 0.3.0
 Author: Vlad Tarko
 Maintainer: Vlad Tarko <vladtarko@gmail.com>
 Description: Creates a summary dataframe that can be used in 'RStudio' similar to the variable
@@ -14,10 +14,10 @@ Encoding: UTF-8
 LazyData: true
 Imports: dplyr, magrittr, purrr, tidyr, stringr, glue, DT, rstudioapi,
         rio
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-09-28 05:28:40 UTC; vladtarko
+Packaged: 2020-07-12 18:07:47 UTC; vladtarko
 Repository: CRAN
-Date/Publication: 2019-10-03 07:40:02 UTC
+Date/Publication: 2020-07-13 04:30:03 UTC

@@ -85,10 +85,10 @@ datatable2 <- function(x, vars = NULL, opts = NULL, font.size = "10pt", dom = 'f
 
   for (i in seq_along(pos)) {
     text <- paste(text, glue::glue(
-      "'<tr>' +
+      " (  d[{pos[i]}]!==null ? ( '<tr>' +
           '<td>' + '{names_x[pos[i]]}' + '</td>' +
           '<td>' + d[{pos[i]}] + '</td>' +
-        '</tr>' + " ))
+        '</tr>' ) : '' ) + " ))
   }
 
   paste0(text,

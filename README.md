@@ -1,20 +1,18 @@
-# varsExplore
-Searchable variable explorer with labelled variables in RStudio's Viewer Pane
+# My fork of varsExplore
+Searchable variable explorer with labelled variables in RStudio's Viewer Pane.
+
+# Changes
+
+* Auto-hide null rows
 
 ![](vignettes/vars_explore_large.gif)
 
 # Install
 
-From CRAN:
-
-```r
-install.packages("varsExplore")
-```
-
 Development version:
 
 ```r
-devtools::install_github("vladtarko/varsExplore")
+devtools::install_github("moutikabdessabour/varsExplore")
 ```
  
 # Basic usage
